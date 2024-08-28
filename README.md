@@ -9,6 +9,8 @@ This is a MVC architecture based application where controller returns a page wit
 
 version 1.0.0 released
 
+version 2.0.0 released
+
 Checkout the repo and move to the directory
 
 ```
