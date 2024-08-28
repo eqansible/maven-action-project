@@ -11,6 +11,8 @@ version 1.0.0 released
 
 version 2.0.0 released
 
+version 2.0.1 release
+
 Checkout the repo and move to the directory
 
 ```
